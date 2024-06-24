@@ -1,0 +1,99 @@
+@media (max-width: 767.98px) {
+
+    .section-title .main-title {
+        font-size: 34px;
+    }
+
+    .section-title .main-title.text-lg {
+        font-size: 38px;
+    }
+
+    .main-header {
+        padding: 5px 15px 15px;
+    }
+
+    .main-header .custom-nav .logo {
+        text-align: center;
+        display: block;
+    }
+
+    .register-btn {
+        justify-content: center;
+    }
+    
+    .main-slider .slide-item{
+        height: calc(100vh - 150px);
+    }
+
+    .main-slider .banner-content-box img {
+        width: 230px !important;
+    }
+
+    .about-company-section {
+        padding-top: 100px;
+        padding-bottom: 200px;
+    }
+
+    .about-company-section .content p {
+        font-size: 20px;
+    }
+
+    .discover-section .intro-carousel .slide-item img {
+        height: 400px;
+    }
+
+    .explore-section .explore-background .section-title {
+        bottom: 2%;
+    }
+
+    .explore-section .explore-background .section-title .main-title {
+        font-size: 20px;
+    }
+
+    .explore-section .overlay-bg {
+        top: -75px;
+        margin-bottom: -50px;
+    }
+
+    .explore-section .overlay-bg .overlay {
+        height: 200px;
+    }
+
+    .explore-section .overlay-bg .overlay-content img {
+        width: 35px !important;
+    }
+
+    .explore-section .overlay-bg .overlay-content p {
+        font-size: 15px;
+        margin-top: 10px !important;
+    }
+
+    .specification-tab .detail {
+        margin-top: 50px;
+    }
+
+    .specification-tab .nav .nav-item {
+        margin: 0 5px 5px;
+    }
+
+    .specification-tab .nav .nav-item .nav-link {
+        border-radius: 0;
+    }
+
+    .details-section .footer-carousel img {
+        height: 300px;
+    }
+
+    .footer-section {
+        padding: 230px 0 70px;
+        margin-top: -150px;
+    }
+    
+     .registration-form h4 {
+        font-size: 32px;
+    }
+
+    .registration-form {
+        padding: 40px 10px;
+    }
+}

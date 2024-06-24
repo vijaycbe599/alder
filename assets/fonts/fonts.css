@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Adobe Arabic Regular';
+    font-weight: inherit;
+    src: url(../fonts/AdobeArabic-Regular.otf) format("opentype");
+}
+
+@font-face {
+    font-family: 'Muller Regular';
+    font-weight: inherit;
+    src: url(../fonts/MullerRegular.otf) format("opentype");
+}
